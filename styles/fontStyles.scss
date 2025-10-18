@@ -1,0 +1,73 @@
+@font-face {
+ font-family: 'NunitoBold';
+ src: url('../public/fonts/nunito/Nunito-Bold.ttf');
+ }
+ 
+ @font-face {
+ font-family: 'NunitoExtraBold';
+ src: url('../public/fonts/nunito/Nunito-ExtraBold.ttf');
+ }
+ 
+ @font-face {
+ font-family: 'NunitoExtraLight';
+ src: url('../public/fonts/nunito/Nunito-ExtraLight.ttf');
+ }
+ 
+ @font-face {
+ font-family: 'NunitoLight';
+ src: url('../public/fonts/nunito/Nunito-Light.ttf');
+ }
+ 
+ @font-face {
+ font-family: 'NunitoRegular';
+ src: url('../public/fonts/nunito/Nunito-Regular.ttf');
+ }
+ 
+ @font-face {
+ font-family: 'NunitoSemiBold';
+ src: url('../public/fonts/nunito/Nunito-SemiBold.ttf');
+ }
+
+ @font-face {
+ font-family: 'EyesomeRegular';
+ src: url('../public/fonts/eyesome-font/eyesome-script.otf');
+ }
+ 
+ body {
+ margin: 0;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ font-family: 'NunitoRegular' ;
+ }
+ 
+ code {
+ font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+ }
+ 
+ .nunito-Bold {
+ font-family: 'NunitoBold' !important;
+ }
+ 
+ .nunito-ExtraBold {
+ font-family: 'NunitoExtraBold' !important;
+ }
+ 
+ .nunito-ExtraLight {
+ font-family: 'NunitoExtraLight' !important;
+ }
+ 
+ .nunito-Light {
+ font-family: 'NunitoLight' !important;
+ }
+ 
+ .nunito-Regular {
+ font-family: 'NunitoRegular' !important;
+ }
+ 
+ .nunito-SemiBold {
+ font-family: 'NunitoSemiBold' !important;
+ }
+ 
+ .eyesome-regular{
+ font-family: 'EyesomeRegular' !important;
+ }
